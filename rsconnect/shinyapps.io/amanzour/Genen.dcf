@@ -1,0 +1,12 @@
+name: Genen
+title: Genen
+username:
+account: amanzour
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4140937
+bundleId: 4605642
+url: https://amanzour.shinyapps.io/Genen/
+when: 1621223362.7617
+asMultiple: FALSE
+asStatic: FALSE
